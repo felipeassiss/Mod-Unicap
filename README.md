@@ -35,7 +35,7 @@ As funcionalidades atuais demonstram:
 ## 🛠️ Instruções de Instalação e Uso
 
 1.  **Pré-requisitos:** É necessário ter o [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) instalado para a versão **1.21.1** do Minecraft (ou a versão para a qual o mod foi compilado).
-2.  **Download:** Baixe o arquivo `.jar` da versão mais recente do UnicapMod (geralmente encontrado na seção de "Releases" do repositório GitHub ou em um link de distribuição fornecido).
+2.  **Download:** Baixe o arquivo `.jar` da versão mais recente do UnicapMod neste repositório.
 3.  **Instalação:** Coloque o arquivo `.jar` baixado na pasta `mods` localizada no diretório de instalação do seu Minecraft (comumente `%appdata%\.minecraft\mods` no Windows).
 4.  **Execução:** Inicie o Minecraft utilizando o perfil do Forge correspondente. O mod deverá ser carregado automaticamente.
 
